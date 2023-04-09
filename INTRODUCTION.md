@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ds-amrit-anand
-- 👀 I’m interested in coding in python and sql
-- 🌱 I’m currently learning machine learning
+- 👀 My favourite coding languages are Python and SQL
+- 🌱 I’m currently learning data engineering.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me amriteshwar.anand@gmail.com 
 <!---
